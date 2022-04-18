@@ -1,0 +1,23 @@
+PROBLEM SOLVING STEPS:
+
+- Understand the problem
+  - make questions
+
+- Explore concrete examples
+  - implement examples of how it will work
+  - what the inputs and outputs gonna look like
+  - find the edge cases of the problem
+
+- Break it down
+  - find the basic steps that will solve the problem
+  - write comments with these steps in order
+
+- Solve / Simplify
+  - solve the problem
+  - if there are steps that you cannot solve right now skip them or split them into more steps
+  - make a research for those steps that you are struggling on
+
+- Look back and refactor
+  - make your solution more readable
+  - use modern and simpler syntax if you can
+  - make optimizations in order to improve space and time complexity 
